@@ -1,0 +1,30 @@
+[submodule "cogutil"]
+	path = cogutil
+	url = https://github.com/opencog/cogutil.git
+[submodule "atomspace"]
+	path = atomspace
+	url = https://github.com/opencog/atomspace.git
+[submodule "cogserver"]
+	path = cogserver
+	url = https://github.com/opencog/cogserver.git
+[submodule "attention"]
+	path = attention
+	url = https://github.com/opencog/attention.git
+[submodule "ure"]
+	path = ure
+	url = https://github.com/opencog/ure.git
+[submodule "pln"]
+	path = pln
+	url = https://github.com/opencog/pln.git
+[submodule "spacetime"]
+	path = spacetime
+	url = https://github.com/opencog/spacetime.git
+[submodule "ros-behavior-scripting"]
+	path = ros-behavior-scripting
+	url = https://github.com/opencog/ros-behavior-scripting.git
+[submodule "lg-atomese"]
+	path = lg-atomese
+	url = https://github.com/opencog/lg-atomese.git
+[submodule "opencog"]
+	path = opencog
+	url = https://github.com/opencog/opencog.git
