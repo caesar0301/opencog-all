@@ -31,3 +31,6 @@
 [submodule "link-grammar"]
 	path = link-grammar
 	url = https://github.com/opencog/link-grammar.git
+[submodule "moses"]
+	path = moses
+	url = https://github.com/opencog/moses.git
