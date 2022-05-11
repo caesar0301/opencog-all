@@ -28,3 +28,6 @@
 [submodule "opencog"]
 	path = opencog
 	url = https://github.com/opencog/opencog.git
+[submodule "link-grammar"]
+	path = link-grammar
+	url = https://github.com/opencog/link-grammar.git
